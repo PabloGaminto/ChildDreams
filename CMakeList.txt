@@ -1,5 +1,0 @@
-cmake_minimum_required(VERION 3.29 FATAL_ERROR)
-
-project(ChildDreams)
-
-add_aexecutable(ChildDreams Sours/main.cpp)
